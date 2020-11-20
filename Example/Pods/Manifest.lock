@@ -1,0 +1,16 @@
+PODS:
+  - SXPlugin (0.1.0)
+
+DEPENDENCIES:
+  - SXPlugin (from `../`)
+
+EXTERNAL SOURCES:
+  SXPlugin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SXPlugin: cd1670c7dfd13ff0a0997058d554af88e7417aaa
+
+PODFILE CHECKSUM: 1ecc9619d876cba58715b1aa231d735455a19722
+
+COCOAPODS: 1.9.3

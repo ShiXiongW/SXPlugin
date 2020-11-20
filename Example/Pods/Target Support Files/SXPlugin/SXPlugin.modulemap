@@ -1,0 +1,6 @@
+framework module SXPlugin {
+  umbrella header "SXPlugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
